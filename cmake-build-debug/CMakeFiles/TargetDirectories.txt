@@ -1,3 +1,0 @@
-/home/vir1ibus/CLionProjects/tg-bot-schedule/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/vir1ibus/CLionProjects/tg-bot-schedule/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/vir1ibus/CLionProjects/tg-bot-schedule/cmake-build-debug/CMakeFiles/tg_bot_schedule.dir

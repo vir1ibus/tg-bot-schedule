@@ -1,3 +1,3 @@
-/home/vir1ibus/CLionProjects/tg-bot-schedule/CMakeFiles/rebuild_cache.dir
-/home/vir1ibus/CLionProjects/tg-bot-schedule/CMakeFiles/edit_cache.dir
-/home/vir1ibus/CLionProjects/tg-bot-schedule/CMakeFiles/tg_bot_schedule.dir
+/mnt/c/Users/vir1ibus/Desktop/echobot/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/vir1ibus/Desktop/echobot/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vir1ibus/Desktop/echobot/CMakeFiles/tg-bot-schedule.dir

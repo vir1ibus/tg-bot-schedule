@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/tg_bot_schedule.dir/sock.cpp.o -o tg_bot_schedule 
