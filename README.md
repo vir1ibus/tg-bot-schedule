@@ -6,7 +6,10 @@ This bot will help you organize your day and not forget about important events a
 
 # Installation and running
 
-Add in src/config.cfg token your bot.
+Add your token in src/main.cpp 
+```
+TgBot::Bot bot("TOKEN");
+```
 
 ```
 sudo apt-get install g++ make binutils cmake libssl-dev libboost-system-dev zlib1g-dev
