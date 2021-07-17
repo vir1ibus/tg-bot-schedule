@@ -1,3 +1,0 @@
-/mnt/c/Users/vir1ibus/Desktop/echobot/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/vir1ibus/Desktop/echobot/CMakeFiles/edit_cache.dir
-/mnt/c/Users/vir1ibus/Desktop/echobot/CMakeFiles/tg-bot-schedule.dir
