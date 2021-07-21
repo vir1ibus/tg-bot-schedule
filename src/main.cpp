@@ -266,7 +266,7 @@ int main() {
     int state = CHECK_TASK_LIST_STATE;
 
     Database *database = new Database();
-    Bot bot("1620046312:AAEbb89mVnnnO1KvPwA2YY0hf9lRGQbgg-Q");
+    Bot bot("TOKEN");
     InlineKeyboardMarkup::Ptr keyboard(new InlineKeyboardMarkup);
     vector<InlineKeyboardButton::Ptr> row;
 
