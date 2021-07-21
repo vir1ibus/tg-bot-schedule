@@ -8,7 +8,7 @@ This bot will help you organize your day and not forget about important events a
 
 Add your token in src/main.cpp 
 ```
-TgBot::Bot bot("TOKEN");
+Bot bot("TOKEN");
 ```
 
 ```
